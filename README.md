@@ -10,3 +10,5 @@
 
 # 學習文件如下notion連結：
 https://western-skipjack-daa.notion.site/W11-bfb7bac10014462da1e2ab6fbbbf2366?pvs=4
+
+備註：目前後端未部署伺服器，因此沒做vercel的使用
